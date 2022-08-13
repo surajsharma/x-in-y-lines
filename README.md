@@ -6,6 +6,8 @@
 - Pydis – Redis clone in 250 lines of Python, for performance comparison [link](https://github.com/boramalper/pydis)
 - SQL query builder in 150 lines of Python [link](https://death.andgravity.com/query-builder-how)
 - A functional, relational database in about 250 lines of Common Lisp [link](https://github.com/Wukix/LambdaLite)
+- A mini redis in 411 lines of Python [link](https://github.com/bpollack/miniredis/blob/master/miniredis.py)
+
 
 ## Version Control
 
@@ -52,6 +54,7 @@
 - Node.js: Build a static site generator in 40 lines with Node.js [link](https://www.webdevdrops.com/en/build-static-site-generator-nodejs-8969ebe34b22/)
 - A React (+ Redux) replacement in 40 lines of code [link](https://github.com/stasm/innerself?ref=hackernoon.com)
 - Building a full-text search engine in 150 lines of Python code [link](https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/)
+- Noact – React-like Virtual DOM library in 70 lines of TypeScript  [link](https://github.com/ms-jpq/noact/blob/noact/src/noact-elements.ts)
 
 ## Cryptocurrency 
 
@@ -83,6 +86,7 @@
 - Self-hosting Lisp-to-C compiler in 384 lines of Lisp [link](https://github.com/darius/ichbins/blob/master/ichbins.scm)
 - Regular expression engine in 14 lines of Python [link](http://paste.lisp.org/display/24849)
 - Lisp compiler in 89 lines of Python [link](https://bernhardkausler.wordpress.com/2009/11/28/sinc-%E2%80%94-the-tiniest-lisp-compiler-to-python/)
+- An extensible multi-markup reader in less than 100 lines of python code [link](https://gist.github.com/miraculixx/900a28a94c375b7259b1f711b93417d3)
 
 ## Video 
 - C: How to Write a Video Player in Less Than 1000 Lines [link](http://dranger.com/ffmpeg/ffmpeg.html)
