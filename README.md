@@ -1,10 +1,15 @@
 # x-in-y-lines
-fully-functional applications in any language, usually written succintly (&lt;1000 loc)
+fully-functional applications in any language, usually written succintly (&lt;1000 loc). If you would like your project/tutorial featured in this list, please make a PR.
+
+## WWW / Networks
+- Strace in 60 lines of Go [link](https://hackernoon.com/strace-in-60-lines-of-go-b4b76e3ecd64)
+- News Scraper with 100 Lines of Python [link](https://hackernoon.com/i-made-a-news-scrapper-with-100-lines-of-python-2e1de1f28f22)
 
 
 ## Games
 
 - snake in 12 lines of Pytorch [link](https://scribe.rip/artificialis/writing-snake-in-12-lines-of-pytorch-f7b21ce42a66)
+- Pokemon game in 70 lines of Javascript [link](https://hackernoon.com/recreate-a-simple-pokemon-game-with-70-lines-of-javascript)
 
 ## Engines/Frameworks
 
@@ -16,11 +21,14 @@ fully-functional applications in any language, usually written succintly (&lt;10
 - JavaScript: JavaScript template engine in just 20 lines [link](http://krasimirtsonev.com/blog/article/Javascript-template-engine-in-just-20-line)
 - Ruby: How to write a template engine in less than 30 lines of code [link](http://bits.citrusbyte.com/how-to-write-a-template-library/)
 - Node.js: Build a static site generator in 40 lines with Node.js [link](https://www.webdevdrops.com/en/build-static-site-generator-nodejs-8969ebe34b22/)
+- A React (+ Redux) replacement in 40 lines of code [link](https://github.com/stasm/innerself?ref=hackernoon.com)
+
 
 ## Crypto 
 
 - Go: Code your own blockchain in less than 200 lines of Go [link](https://medium.com/@mycoralhealth/code-your-own-blockchain-in-less-than-200-lines-of-go-e296282bcffc)
 - JavaScript: A cryptocurrency implementation in less than 1500 lines of code [link](https://github.com/conradoqg/naivecoin)
+- Make an NFT in 15 Lines of Solidity [link](https://hackernoon.com/how-to-make-an-nft-in-15-lines-of-code)
 
 ## Containers
 
@@ -31,6 +39,8 @@ fully-functional applications in any language, usually written succintly (&lt;10
 ## AI/ML
 
 - Python: A Neural Network in 11 lines of Python [link](https://iamtrask.github.io/2015/07/12/basic-python-network/)
+- Abstractive Text Summarizer in 94 Lines of Tensorflow [link](https://hackernoon.com/build-an-abstractive-text-summarizer-in-94-lines-of-tensorflow-tutorial-6-f0e1b4d88b55)
+
 
 ## Compilers / Interpreters / Languages
 
