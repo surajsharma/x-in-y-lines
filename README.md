@@ -1,5 +1,5 @@
 # x-in-y-lines
-fully-functional applications in any language, written succintly (&lt;1000 loc). If you would like your project/tutorial featured in this list, please make a PR.
+> Succintly written (&lt;1000 non-obfuscated loc), fully-functional software in any language.
 
 ## Databases
 
@@ -22,6 +22,7 @@ fully-functional applications in any language, written succintly (&lt;1000 loc).
 ## WWW / Networks
 
 - Strace in 60 lines of Go [link](https://hackernoon.com/strace-in-60-lines-of-go-b4b76e3ecd64)
+- Traceroute, 71 lines, Python [link](https://github.com/leonidg/Poor-Man-s-traceroute/blob/master/traceroute.py)
 - News Scraper with 100 Lines of Python [link](https://hackernoon.com/i-made-a-news-scrapper-with-100-lines-of-python-2e1de1f28f22)
 
 ## Games / Graphics
@@ -77,6 +78,14 @@ fully-functional applications in any language, written succintly (&lt;1000 loc).
 ## Compilers / Interpreters / Languages
 - A programming language in 450 lines of JavaScript [link](http://jsfiddle.net/osfnzyfd/)
 - C: Build Your Own Lisp: Learn C and build your own programming language in 1000 lines of code [link](http://www.buildyourownlisp.com/)
+- C subset lexer, parser, code generator, and VM in 291 lines of C [link](http://www.iro.umontreal.ca/~felipe/IFT2030-Automne2002/Complements/tinyc.c)
+- A simple parser for mathematical expressions in 26 lines of Python [link](https://github.com/gnebehay/parser) [hn thread](https://news.ycombinator.com/item?id=24502293)
+- Self-hosting Lisp-to-C compiler in 384 lines of Lisp [link](https://github.com/darius/ichbins/blob/master/ichbins.scm)
+- Regular expression engine in 14 lines of Python [link](http://paste.lisp.org/display/24849)
+- Lisp compiler in 89 lines of Python [link](https://bernhardkausler.wordpress.com/2009/11/28/sinc-%E2%80%94-the-tiniest-lisp-compiler-to-python/)
 
 ## Video 
 - C: How to Write a Video Player in Less Than 1000 Lines [link](http://dranger.com/ffmpeg/ffmpeg.html)
+
+
+If you would like your project/tutorial featured in this list, please submit a PR.
