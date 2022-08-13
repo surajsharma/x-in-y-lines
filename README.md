@@ -1,10 +1,19 @@
 # x-in-y-lines
-fully-functional applications in any language, usually written succintly (&lt;1000 loc). If you would like your project/tutorial featured in this list, please make a PR.
+fully-functional applications in any language, written succintly (&lt;1000 loc). If you would like your project/tutorial featured in this list, please make a PR.
 
+## Databases
+
+- Pydis – Redis clone in 250 lines of Python, for performance comparison [link](https://github.com/boramalper/pydis)
+- SQL query builder in 150 lines of Python [link](https://death.andgravity.com/query-builder-how)
+- A functional, relational database in about 250 lines of Common Lisp [link](https://github.com/Wukix/LambdaLite)
+
+## Version Control
+
+- Gitlet.js – Git implemented in 1k lines of JS [link](http://gitlet.maryrosecook.com/docs/gitlet.html)
 
 ## Text Editors
 
-- A small text editor in less than 1K lines of code [link](http://antirez.com/news/108)
+- A small text editor in less than 1K lines of C [link](http://antirez.com/news/108)
 
 ## Spreadsheets / Calculators
 
@@ -18,10 +27,17 @@ fully-functional applications in any language, usually written succintly (&lt;10
 ## Games / Graphics
 
 - Simple Minecraft Clone in 580 lines of Python [link](https://github.com/fogleman/Minecraft)
-- Terrain rendering algorithm in less than 20 lines of code [link]()
 - snake in 12 lines of Pytorch [link](https://scribe.rip/artificialis/writing-snake-in-12-lines-of-pytorch-f7b21ce42a66)
 - Pokemon game in 70 lines of Javascript [link](https://hackernoon.com/recreate-a-simple-pokemon-game-with-70-lines-of-javascript)
 - A first-person engine in 265 lines of JS [link](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
+- Sunfish: A simple but strong chess engine in 111 lines of Python [link](https://github.com/thomasahle/sunfish/blob/master/sunfish.py)
+- Recursive raytracer in 35 lines of JavaScript [link](http://jsfiddle.net/vz5aZ/2/)
+- A top-down 2d game engine, written from scratch in under 1000 lines of C [link](https://github.com/ryanpcmcquen/basque)
+
+
+## Emulators
+
+- 	LaiNES – Cycle-accurate NES emulator in around 1000 lines of C++/SDL [link](https://github.com/AndreaOrru/LaiNES)
 
 ## Engines/Frameworks
 
@@ -36,11 +52,15 @@ fully-functional applications in any language, usually written succintly (&lt;10
 - A React (+ Redux) replacement in 40 lines of code [link](https://github.com/stasm/innerself?ref=hackernoon.com)
 - Building a full-text search engine in 150 lines of Python code [link](https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/)
 
-## Crypto 
+## Cryptocurrency 
 
 - Go: Code your own blockchain in less than 200 lines of Go [link](https://medium.com/@mycoralhealth/code-your-own-blockchain-in-less-than-200-lines-of-go-e296282bcffc)
 - JavaScript: A cryptocurrency implementation in less than 1500 lines of code [link](https://github.com/conradoqg/naivecoin)
 - Make an NFT in 15 Lines of Solidity [link](https://hackernoon.com/how-to-make-an-nft-in-15-lines-of-code)
+
+## Cryptography
+
+- Minimal TOTP generator in 20 lines of Python [link](https://github.com/susam/mintotp)
 
 ## Containers
 
@@ -52,9 +72,10 @@ fully-functional applications in any language, usually written succintly (&lt;10
 
 - Python: A Neural Network in 11 lines of Python [link](https://iamtrask.github.io/2015/07/12/basic-python-network/)
 - Abstractive Text Summarizer in 94 Lines of Tensorflow [link](https://hackernoon.com/build-an-abstractive-text-summarizer-in-94-lines-of-tensorflow-tutorial-6-f0e1b4d88b55)
+- Parsing English with 500 lines of Python [link](https://honnibal.wordpress.com/2013/12/18/a-simple-fast-algorithm-for-natural-language-dependency-parsing/)
 
 ## Compilers / Interpreters / Languages
-
+- A programming language in 450 lines of JavaScript [link](http://jsfiddle.net/osfnzyfd/)
 - C: Build Your Own Lisp: Learn C and build your own programming language in 1000 lines of code [link](http://www.buildyourownlisp.com/)
 
 ## Video 
