@@ -26,6 +26,10 @@
 - Strace in 60 lines of Go [link](https://hackernoon.com/strace-in-60-lines-of-go-b4b76e3ecd64)
 - Traceroute, 71 lines, Python [link](https://github.com/leonidg/Poor-Man-s-traceroute/blob/master/traceroute.py)
 - News Scraper with 100 Lines of Python [link](https://hackernoon.com/i-made-a-news-scrapper-with-100-lines-of-python-2e1de1f28f22)
+- A bare-bones but usable Gemini client in 100 lines of Python [link](https://tildegit.org/solderpunk/gemini-demo-1)
+- A bare-bones but usable Gemini client in 100 lines of Lua [link](https://tildegit.org/solderpunk/gemini-demo-2)
+- A bare-bones but usable Gemini client almost 100 lines of Go [link](https://tildegit.org/solderpunk/gemini-demo-3)
+
 
 ## Games / Graphics
 
