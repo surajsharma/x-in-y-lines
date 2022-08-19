@@ -93,6 +93,7 @@
 - An extensible multi-markup reader in less than 100 lines of python code [link](https://gist.github.com/miraculixx/900a28a94c375b7259b1f711b93417d3)
 - A λ-calculus interpreter in less than 300 lines of JavaScript [link](https://tadeuzagallo.com/blog/writing-a-lambda-calculus-interpreter-in-javascript/)
 - Casual Markdown - a regex based markdown parser in less than 190 lines of JavaScript [link](https://github.com/casualwriter/casual-markdown)
+- Snarkdown - another regesx based markdown parser in 109 lines of JS
 
 ## Video 
 - C: How to Write a Video Player in Less Than 1000 Lines [link](http://dranger.com/ffmpeg/ffmpeg.html)
