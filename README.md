@@ -1,6 +1,8 @@
 # x-in-y-lines
 > Succintly written (&lt;1000 non-obfuscated loc), fully-functional software in any language.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Databases
 
 - Pydis – Redis clone in 250 lines of Python, for performance comparison [link](https://github.com/boramalper/pydis)
@@ -97,6 +99,3 @@
 
 ## Video 
 - C: How to Write a Video Player in Less Than 1000 Lines [link](http://dranger.com/ffmpeg/ffmpeg.html)
-
-
-If you would like your project/tutorial featured in this list, please submit a PR.
