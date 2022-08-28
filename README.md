@@ -42,7 +42,7 @@
 - Sunfish: A simple but strong chess engine in 111 lines of Python [link](https://github.com/thomasahle/sunfish/blob/master/sunfish.py)
 - Recursive raytracer in 35 lines of JavaScript [link](http://jsfiddle.net/vz5aZ/2/)
 - A top-down 2d game engine, written from scratch in under 1000 lines of C [link](https://github.com/ryanpcmcquen/basque)
-
+- Tile map editor in 70 lines of JavaScript [link](http://slicker.me/javascript/tile_map_editor.htm)
 
 ## Emulators
 
