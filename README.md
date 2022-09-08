@@ -64,6 +64,7 @@
 
 ## Cryptocurrency 
 
+- Real-time crypto trading bot in under 100 lines of python [link](https://github.com/hackingthemarkets/binance-tutorials/blob/master/rsibot/bot.py)
 - Go: Code your own blockchain in less than 200 lines of Go [link](https://medium.com/@mycoralhealth/code-your-own-blockchain-in-less-than-200-lines-of-go-e296282bcffc)
 - JavaScript: A cryptocurrency implementation in less than 1500 lines of code [link](https://github.com/conradoqg/naivecoin)
 - Make an NFT in 15 Lines of Solidity [link](https://hackernoon.com/how-to-make-an-nft-in-15-lines-of-code)
