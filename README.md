@@ -97,6 +97,7 @@
 - A λ-calculus interpreter in less than 300 lines of JavaScript [link](https://tadeuzagallo.com/blog/writing-a-lambda-calculus-interpreter-in-javascript/)
 - Casual Markdown - a regex based markdown parser in less than 190 lines of JavaScript [link](https://github.com/casualwriter/casual-markdown)
 - Snarkdown - another regex based markdown parser in 109 lines of JS [link](https://github.com/developit/snarkdown)
+- youtube-dl's JavaScript interpreter, written in 870 lines of python [link](https://github.com/ytdl-org/youtube-dl/blob/master/youtube_dl/jsinterp.py)
 
 ## Video 
 - C: How to Write a Video Player in Less Than 1000 Lines [link](http://dranger.com/ffmpeg/ffmpeg.html)
